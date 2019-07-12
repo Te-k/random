@@ -8,7 +8,7 @@ Tutoriel fait en Juillet 2019.
 
 Vous avez besoin de :
 * Un ordinateur avec Ubuntu 18.04 LTS si possible à jour (ca devrait fonctionner sur des versions plus récentes mais sans garantie)
-* Un fichier de configuration pour Ubuntu que vous pouvez télécharger [ici](https://github.com/Te-k/harpoon/raw/master/data/aquilenet-ubuntu.ovpn) et le certificat du serveur VPN téléchargeable [ici](https://atelier.aquilenet.fr/attachments/download/367/ca.crt) (ils doivent être dans le même dossier)
+* Un fichier de configuration pour Ubuntu que vous pouvez télécharger [ici](https://raw.githubusercontent.com/Te-k/random/master/data/aquilenet-ubuntu.ovpn) et le certificat du serveur VPN téléchargeable [ici](https://atelier.aquilenet.fr/attachments/download/367/ca.crt) (ils doivent être dans le même dossier)
 * Votre login et mot de passe VPN que vous pouvez trouver dans la [page adhérent](https://adherents.aquilenet.fr/vpn.php) dans l'onglet VPN
 
 ## Installer OpenVPN
@@ -55,7 +55,7 @@ Vous pouvez maintenant lancer votre VPN directement depuis le menu d'Ubuntu en c
 
 Pour tester que vous utilisez bien le VPN d'Aquilenet, vous pouvez aller sur [ipinfo.io](https://ipinfo.io/) et confirmer que votre adresse IP publique appartient bien au réseau d'Aquilenet :
 
-![10](img/vpn/10.vpn)
+![10](img/vpn/10.png)
 
 ## Références
 
